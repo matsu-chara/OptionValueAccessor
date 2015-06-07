@@ -1,6 +1,6 @@
 package OptionValueAccessor
 
-import OptionValueAccessor.OptionValueAccessor._
+import OptionValueAccessor._
 
 object OptionValueAccessorTest {
 
