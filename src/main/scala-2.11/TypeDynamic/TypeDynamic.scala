@@ -1,0 +1,5 @@
+package TypeDynamic
+
+class TypeDynamic {
+
+}
